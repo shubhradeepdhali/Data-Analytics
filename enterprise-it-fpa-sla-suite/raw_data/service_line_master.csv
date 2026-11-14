@@ -1,0 +1,6 @@
+Service_ID,Service_Line_Name,Practice_Head,Target_SLA_Hours,Target_Margin_Pct
+SL-101,  Network Integration ,R. Sharma,4.0,0.28
+SL-102,unified communications,M. Vance,2.0,0.34
+SL-103,Data Center Infrastructure  ,K. Nair,6.0,0.25
+SL-104,Cybersecurity Managed SLA,D. Miller,1.0,0.42
+SL-105,cloud edge deployment ,S. Kulkarni,4.0,0.31
